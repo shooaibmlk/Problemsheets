@@ -1,0 +1,7 @@
+Write a program in C to read 34 number from the keyboard 
+and check if the number is less than your ID’s last 4 digit
+then Multiply the Number with Your ID’ and Print the output, 
+Otherwise, Add the number with your ID and Print the Output.
+And check whether the output is EVEN or ODD. 
+If EVEN then print “Daffodil International University”, 
+otherwise print “Software Engineering Department.”
